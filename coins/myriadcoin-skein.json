@@ -1,0 +1,8 @@
+{
+    "name": "MyriadcoinSkein",
+    "symbol": "MYRSKN",
+    "algorithm": "skein",
+    "peerMagic": "af4576ee",
+    "peerMagicTestnet": "01f555a4"
+}
+

@@ -1,0 +1,8 @@
+{
+    "name": "MyriadcoinScrypt",
+    "symbol": "MYRSCR",
+    "algorithm": "scrypt",
+    "peerMagic": "af4576ee",
+    "peerMagicTestnet": "01f555a4"
+}
+
