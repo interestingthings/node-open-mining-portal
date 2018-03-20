@@ -1,0 +1,7 @@
+{
+    "name": "verge-blake2s",
+    "symbol": "XVG",
+    "algorithm": "blake2s",
+    "peerMagic": "f7a77eff",
+    "peerMagicTestnet": "cdf2c0ef"
+}

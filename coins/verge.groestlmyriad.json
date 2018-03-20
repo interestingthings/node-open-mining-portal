@@ -1,0 +1,7 @@
+{
+    "name": "verge-groestl",
+    "symbol": "XVG",
+    "algorithm": "groestlmyriad",
+    "peerMagic": "f7a77eff",
+    "peerMagicTestnet": "cdf2c0ef"
+}

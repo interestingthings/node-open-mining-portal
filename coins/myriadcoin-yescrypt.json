@@ -1,7 +1,7 @@
 {
-    "name": "MyriadcoinGroestl",
-    "symbol": "MYRGRS",
-    "algorithm": "groestl",
+    "name": "MyriadcoinYescrypt",
+    "symbol": "MYRYES",
+    "algorithm": "yescrypt",
     "peerMagic": "af4576ee",
     "peerMagicTestnet": "01f555a4"
 }

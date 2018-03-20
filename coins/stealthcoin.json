@@ -1,0 +1,7 @@
+{
+    "name": "StealthCoin",
+    "symbol": "XST",
+    "algorithm": "x13",
+    "peerMagic": "70352205",
+    "mposDiffMultiplier": 256
+}

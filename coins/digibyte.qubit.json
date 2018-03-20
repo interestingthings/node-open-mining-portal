@@ -1,0 +1,6 @@
+{
+    "name": "Digibyte-Qubit",
+    "symbol": "DGB",
+    "algorithm": "qubit",
+    "peermagic": "fac3b6da"
+}

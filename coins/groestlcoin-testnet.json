@@ -1,0 +1,5 @@
+{
+    "name": "groestlcoin-testnet",
+    "symbol": "GRS",
+    "algorithm": "groestl"
+}

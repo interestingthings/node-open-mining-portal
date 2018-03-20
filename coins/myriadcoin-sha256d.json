@@ -1,5 +1,5 @@
 {
-    "name": "MyriadcoinSha256",
+    "name": "MyriadcoinSha256d",
     "symbol": "MYRSHA",
     "algorithm": "sha256",
     "peerMagic": "af4576ee",

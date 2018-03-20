@@ -1,0 +1,6 @@
+{
+    "name": "Digibyte-Skein",
+    "symbol": "DGB",
+    "algorithm": "skein",
+    "peermagic": "fac3b6da"
+}

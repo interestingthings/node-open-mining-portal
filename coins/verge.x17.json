@@ -1,0 +1,7 @@
+{
+    "name": "verge-x17",
+    "symbol": "XVG",
+    "algorithm": "x17",
+    "peerMagic": "f7a77eff",
+    "peerMagicTestnet": "cdf2c0ef"
+}

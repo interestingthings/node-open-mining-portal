@@ -1,0 +1,6 @@
+{
+    "name": "digibyte-groestl",
+    "symbol": "DGB",
+    "algorithm": "groestlmyriad",
+    "peermagic": "fac3b6da"
+}

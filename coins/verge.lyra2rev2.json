@@ -1,0 +1,7 @@
+{
+    "name": "verge-lyra2rev2",
+    "symbol": "XVG",
+    "algorithm": "lyra2rev2",
+    "peerMagic": "f7a77eff",
+    "peerMagicTestnet": "cdf2c0ef"
+}
