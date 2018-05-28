@@ -2,5 +2,6 @@
     "name": "Digibyte",
     "symbol": "DGB",
     "algorithm": "scrypt",
-    "peermagic": "fac3b6da"
+    "peerMagic": "fac3b6da",
+    "peerMagicTestnet": "fdc8bddd"
 }
