@@ -191,7 +191,8 @@ module.exports = function(logger){
                     logger.debug(logSystem, logComponent, logSubCat, 'Share was found with diff higher than 1.000.000.000!');
                 else if(data.shareDiff > 1000000)
                     logger.debug(logSystem, logComponent, logSubCat, 'Share was found with diff higher than 1.000.000!');
-                logger.debug(logSystem, logComponent, logSubCat, 'Share accepted at diff ' + data.difficulty + '/' + data.shareDiff + ' by ' + data.worker + ' [' + data.ip + ']' );
+                logger.debug(logSystem, logComponent, logSubCat, 'Share accepted at diff ' + data.difficulty + '/' + data.shareDiff + '[blkdiff:' + data.blockDiffActual + '] by ' + data.worker + ' [' + data.ip + ']' );
+
 
             } else if (!isValidShare)
                 logger.debug(logSystem, logComponent, logSubCat, 'Share rejected: ' + shareData);
