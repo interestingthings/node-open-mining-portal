@@ -3,5 +3,6 @@
     "symbol": "XVG",
     "algorithm": "groestlmyriad",
     "peerMagic": "f7a77eff",
-    "peerMagicTestnet": "cdf2c0ef"
+    "peerMagicTestnet": "cdf2c0ef",
+    "forceSha256Dblockhash": "true"
 }

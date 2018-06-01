@@ -2,5 +2,8 @@
     "name": "digibyte-groestl",
     "symbol": "DGB",
     "algorithm": "groestlmyriad",
-    "peermagic": "fac3b6da"
+    "peerMagic": "fac3b6da",
+    "peerMagicTestnet": "fdc8bddd",
+    "sha256DHeader": "true",
+    "rpcapiv1": "true"
 }
